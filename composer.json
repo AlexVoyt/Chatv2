@@ -1,0 +1,14 @@
+{
+    "name": "av/chatv2",
+    "description": "Here we go again",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "alexeyvoytenko.2000@gmail.com"
+        }
+    ]
+}
